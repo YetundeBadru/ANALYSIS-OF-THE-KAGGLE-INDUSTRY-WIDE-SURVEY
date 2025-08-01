@@ -83,8 +83,8 @@ Feel free to fork this repository, contribute, and suggest improvements.
 ---
 
 # Acknowledgments
-Dataset from Kaggle
-Tools from Python’s data science ecosystem
+- Dataset from Kaggle
+- Tools from Python’s data science ecosystem
 
 ---
 
