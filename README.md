@@ -46,12 +46,15 @@ Every year, Kaggle conducts an industry-wide survey that presents a comprehensiv
 To run this analysis, you will need to have Python installed along with the required libraries.
 
 1. Clone the repository (or download the notebook):
+
 git clone <repository_url>
 
 2. Navigate to the project directory:
+
 cd Yetunde_Badru_Kaggle_Industry_Wide_Survey
 
 3. Install the necessary libraries:
+
 pip install pandas numpy
 
 4. Download the dataset:
