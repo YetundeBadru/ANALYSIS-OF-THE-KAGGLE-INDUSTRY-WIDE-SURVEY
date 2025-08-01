@@ -47,17 +47,18 @@ To run this analysis, you will need to have Python installed along with the requ
 
 1. Clone the repository (or download the notebook):
 
-git clone <repository_url>
+       git clone <repository_url>
 
 2. Navigate to the project directory:
 
-cd Yetunde_Badru_Kaggle_Industry_Wide_Survey
+       cd Yetunde_Badru_Kaggle_Industry_Wide_Survey
 
 3. Install the necessary libraries:
 
-pip install pandas numpy
+       pip install pandas numpy
 
 4. Download the dataset:
+
 The project uses the 2019multiple_choice_responses.csv file. Ensure this CSV file is placed in the same directory as the Jupyter Notebook. You can typically find this dataset on Kaggle's official survey page.
 
 5. Open and run the Jupyter Notebook:
@@ -65,11 +66,30 @@ jupyter notebook "Yetunde_Badru_Kaggle_Industry_Wide_Survey.ipynb"
 
 **Note: Follow the cells in the notebook to reproduce the analysis.**
 
+---
+
 # General Insights from all 3 Countries (France, India and South Africa)
 
 - India and South Africa have the highest number of individuals with a bachelor's degree.
 - All three countries have the highest number of individuals with a master's degree.
 - They all have a low number of advanced degrees, which explains that individuals mostly get jobs with their bachelor's and master's degrees.
 
-Contributing
+---
+
+# Contributing
 Feel free to fork this repository, contribute, and suggest improvements.
+
+---
+
+# Acknowledgments
+Dataset from Kaggle
+Tools from Python’s data science ecosystem
+
+---
+
+# Author
+Yetunde Badru Data Scientist | AI/ML| AWS Cloud Practitioner
+
+LinkedIn: www.linkedin.com/in/yetundebarakbadru
+
+Email: yetundebarakbadru@gmail.com
