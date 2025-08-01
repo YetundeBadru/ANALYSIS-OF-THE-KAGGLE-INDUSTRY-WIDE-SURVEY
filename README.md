@@ -48,19 +48,19 @@ To run this analysis, you will need to have Python installed along with the requ
 1. Clone the repository (or download the notebook):
 
        git clone <repository_url>
-
+---
 2. Navigate to the project directory:
 
        cd Yetunde_Badru_Kaggle_Industry_Wide_Survey
-
+---
 3. Install the necessary libraries:
 
        pip install pandas numpy
-
+---
 4. Download the dataset:
 
 The project uses the 2019multiple_choice_responses.csv file. Ensure this CSV file is placed in the same directory as the Jupyter Notebook. You can typically find this dataset on Kaggle's official survey page.
-
+---
 5. Open and run the Jupyter Notebook:
 
        jupyter notebook "Yetunde_Badru_Kaggle_Industry_Wide_Survey.ipynb"
